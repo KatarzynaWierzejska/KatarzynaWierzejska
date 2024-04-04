@@ -11,7 +11,7 @@ __Junior Front End:__ ```HTML```, ```CSS```, ```Tailwind```, ```React```
 * Dogs - I really like dogs
 * Traditional Arts - painting, crocheting
 * Digital Art
-* Running //
+* Running
 
 ## Contact 🦈
 E-mail -> kata.wierzejska@gmail.com \
