@@ -3,8 +3,18 @@ As a passionate beginner in UX/UI design and Front-End Development, I am eager t
 
 * Check out my Portfolio -> <a href="https://katarzynawierzejska.notion.site/Hi-I-m-Kasia-d76c01f2dc2249fc9ce30d59b9fd30fb" target="_blank">Click Me!</a>
 ## Toolbox  ๋࣭ ⭑ 
-__Junior UX % UI Design:__ ```Figma```, ```User flows```, ```Wireframes```, ```Low-fidelity```, ```High-fitelidy``` \
-__Junior Front End:__ ```HTML```, ```CSS```, ```Tailwind```, ```React```
+__Junior UX / UI Design:__ ```Figma```, ```User flows```, ```Wireframes```, ```Low-fidelity```, ```High-fitelidy``` \\
+__Junior Front End:__ ```HTML```, ```CSS```, ```Tailwind```, ```React``` \\
+
+## Interest
+* Dogs - I really like dogs
+* Traditional Arts - painting, crocheting
+* Digital Art
+* Running //
+
+## Contact
+E-mail -> kata.wierzejska@gmail.com \\
+LinkedIn -> <a href="https://www.linkedin.com/in/katarzyna-wierzejska-0ba460255/" target="_blank">Click Me!</a>
 <!--
 **KatarzynaWierzejska/KatarzynaWierzejska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
