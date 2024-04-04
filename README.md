@@ -14,7 +14,7 @@ __Junior Front End:__ ```HTML```, ```CSS```, ```Tailwind```, ```React```
 * Running //
 
 ## Contact 🦈
-E-mail -> kata.wierzejska@gmail.com \\
+E-mail -> kata.wierzejska@gmail.com \
 LinkedIn -> <a href="https://www.linkedin.com/in/katarzyna-wierzejska-0ba460255/" target="_blank">Click Me!</a>
 <!--
 **KatarzynaWierzejska/KatarzynaWierzejska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
