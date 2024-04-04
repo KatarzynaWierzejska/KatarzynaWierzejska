@@ -1,7 +1,9 @@
 ### Hey, I'm Kasia 🐾
 I'm a 23-year-old student based in Poland, and I'm passionate about crafting digital experiences, stunning designs, and upgrading the user experience. 
 * Check out my Portfolio -> <a href="https://katarzynawierzejska.notion.site/Hi-I-m-Kasia-d76c01f2dc2249fc9ce30d59b9fd30fb" target="_blank">Click Me!</a>
-
+## 📦 Toolbox
+__Junior UX % UI Design:__ ```Figma```, User flows, Wireframes, Low-fidelity, High-fitelidy
+__Junior Front End:__ HTML, CSS, Tailwind, React
 <!--
 **KatarzynaWierzejska/KatarzynaWierzejska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
