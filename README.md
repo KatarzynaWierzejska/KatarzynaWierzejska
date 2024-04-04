@@ -2,7 +2,7 @@
 As a passionate beginner in UX/UI design and Front-End Development, I am eager to learn and advance my design skills to create user-friendly and visually compelling digital experiences for people. I'm a 23-year-old Data Scientist student based in Poland. \
 
 * Check out my Portfolio -> <a href="https://katarzynawierzejska.notion.site/Hi-I-m-Kasia-d76c01f2dc2249fc9ce30d59b9fd30fb" target="_blank">Click Me!</a>
-## Toolbox  ๋࣭ ⭑ 
+## Toolbox 🐙 
 __Junior UX / UI Design:__ ```Figma```, ```User flows```, ```Wireframes```, ```Low-fidelity```, ```High-fitelidy``` \
 \
 __Junior Front End:__ ```HTML```, ```CSS```, ```Tailwind```, ```React``` 
