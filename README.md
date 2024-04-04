@@ -5,7 +5,7 @@ As a passionate beginner in UX/UI design and Front-End Development, I am eager t
 ## Toolbox  ๋࣭ ⭑ 
 __Junior UX / UI Design:__ ```Figma```, ```User flows```, ```Wireframes```, ```Low-fidelity```, ```High-fitelidy``` \
 \
-__Junior Front End:__ ```HTML```, ```CSS```, ```Tailwind```, ```React``` \
+__Junior Front End:__ ```HTML```, ```CSS```, ```Tailwind```, ```React``` 
 
 ## Interest 🐍
 * Dogs - I really like dogs
